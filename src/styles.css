@@ -11,6 +11,10 @@
   background-color: red;
 }
 
+.tile {
+  text-align: center;
+}
+
 .input {
   display: inline-block;
   -webkit-box-sizing: content-box;
